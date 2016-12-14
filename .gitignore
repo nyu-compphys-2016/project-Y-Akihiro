@@ -1,0 +1,7 @@
+*.mp4
+*.jpeg
+.DS_Store
+*.swp
+*.pyc
+~*
+*.dat
